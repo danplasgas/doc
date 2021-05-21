@@ -28,6 +28,8 @@ A "no" may cause problems for using your server or may require you to make addit
 | Service provider | Box (modem/router) | uPnP available | Port 25 openable | [Hairpinning](http://en.wikipedia.org/wiki/Hairpinning) | Customizable reverse DNS | Fix IP |
 | --- | --- | --- | --- | --- | --- | --- |
 | BT Internet | Yes | - | Yes| - | - | No |
+| BT Business | Yes | Yes | Yes | No | Yes, support ticket | Yes, 1 included, additional available |
+| TalkTalk | Yes | Yes | Yes | No | No | Yes, additional charge |
 | Virgin Media | Yes | - | - | - | No | No |
 | ZEN Internet | Yes | - | Yes | - | Yes | - |
 | PlusNet | Yes | Yes | Yes | No | Yes, if you raise a ticket | Small one off Charge |
